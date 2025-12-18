@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeorgeJ2021
 - 👀 I’m interested in Gaming, graphics programming, and related projects.
-- 🌱 I’m currently learning MSc Computer Game Engineering at Newcastle University.
+- I’m a Graduate of MSc Computer Game Engineering at Newcastle University.
 - 📫 How to reach me: contact me via email: georgejambooken@gmail.com
 
 <!---
